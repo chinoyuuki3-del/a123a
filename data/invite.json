@@ -1,0 +1,14 @@
+{
+  "service": "Troll Engine Friend Invite Sync",
+  "schema_version": 1,
+  "enabled": true,
+  "mode": "short-invite",
+  "protocol": "friend-radio-short-invite-v1",
+  "code_prefix": "FR-",
+  "code_ttl_seconds": 600,
+  "one_time": true,
+  "requires_both_online": true,
+  "stores_user_data": false,
+  "requires_account": false,
+  "updated_at": "2026-07-31T07:40:00Z"
+}
